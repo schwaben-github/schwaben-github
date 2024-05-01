@@ -55,14 +55,10 @@ And I’m a beginner in programming too. I did already some front-end, some Pyth
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwaben-github&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwaben-github&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 <br/>
 
-
-## Listening to on Spotify
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=schwabengeiz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 
 ----
