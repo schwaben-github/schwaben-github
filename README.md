@@ -21,7 +21,7 @@
 
 
 ### Welcome!  
-I'm network administrator at one big international telecom company in real life. Routers are my professional world and I'm Cisco CCNA / CCNP and Juniper JNCIA educated. 
+I'm network administrator at one big international telecom company. Routers are my professional world and I'm Cisco CCNA / CCNP and Juniper JNCIA educated. 
 
 And I’m a beginner in programming too. I did already some front-end, some Python (incl. Data-Analytics and ML), learned some SQL, Docker, DevOps, Data-Analytics and visualization (Power BI) and LLM Prompting.  
   
