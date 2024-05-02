@@ -1,5 +1,6 @@
-## Hey 👋, I'm Tibor!  
-  
+## Hi, I'm Tibor!  
+
+### Network admin from Croatia
 
 <a href="https://github.com/schwaben-github" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,10 +16,8 @@
 </a>
 <a href="https://dev.to/geizhals" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
+</a> 
   
-
-
 
 ### Welcome!  
 I'm network administrator at one big international telecom company. Routers are my professional world and I'm Cisco CCNA / CCNP and Juniper JNCIA educated. 
@@ -55,11 +54,4 @@ And I’m a beginner in programming too. I did already some front-end, some Pyth
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwaben-github&hide_border=true&layout=compact" align="left" style="width: 50%" />
-
-<br/>
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schwaben-github&show_icons=true&theme=dark&locale=en&layout=compact" alt="schwaben-github" /></p>
