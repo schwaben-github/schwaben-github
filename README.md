@@ -22,7 +22,9 @@
 ### Welcome!  
 I'm network administrator in an international telecom company. Routers are my professional world and I'm Cisco CCNA / CCNP and Juniper JNCIA educated. 
 
-And I’m a beginner in programming too. I did already some front-end, some Python (incl. Data-Analytics and ML), learned some SQL, Docker, DevOps, Data-Analytics and visualization (Power BI) and LLM Prompting.  
+I’m a beginner in programming too. I did already some front-end, some Python (incl. Data-Analytics and ML), learned some SQL / PostgreSQL, Docker, DevOps, Data-Analytics and visualization (Power BI) and LLM Prompting.
+
+Right now I'm learning OOP with C# 
   
 
 <br/>  
@@ -32,6 +34,7 @@ And I’m a beginner in programming too. I did already some front-end, some Pyth
 
 <br/>  
 
+[![](https://visitcount.itsvg.in/api?id=schwaben-github&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## Languages and Tools  
 <div align="center">  
