@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NyczVwaTY2dm5oZ2ZkMnp4bDhmNm01ejI3cWl6YzZxOWJhbXo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoP0PvbbSWGAM/giphy.gif" width:"150" />
+</div>
+
 ## Hi, I'm Tibor!  
 
 ### Network admin from Croatia
@@ -84,6 +88,6 @@ Right now I'm learning OOP with C# and gaining first insights into the world of 
 
 <br/>  
 
-![Visitor Count](https://profile-counter.glitch.me/schwaben-github/count.svg)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=schwaben-github&style=flat-square&color=blue" alt=""></p>
 
 ---
