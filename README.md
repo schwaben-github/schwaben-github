@@ -42,7 +42,6 @@ Right now I'm learning OOP with C# and gaining first insights into the world of 
 
 <br/>  
 
-[![](https://visitcount.itsvg.in/api?id=schwaben-github&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## Languages and Tools  
 <div align="center">  
@@ -84,5 +83,7 @@ Right now I'm learning OOP with C# and gaining first insights into the world of 
 </td></tr></table>  
 
 <br/>  
+
+![Visitor Count](https://profile-counter.glitch.me/schwaben-github/count.svg)
 
 ---
