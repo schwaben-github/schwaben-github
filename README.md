@@ -4,7 +4,7 @@
 
 ## Hi, I'm Tibor!  
 
-### Network admin from Croatia
+### SDET from Croatia
 
 <a href="https://github.com/schwaben-github" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -24,12 +24,9 @@
   
 
 ### Welcome!  
-I'm network administrator in an international telecom company. Routers are my professional world and I'm Cisco CCNA / CCNP and Juniper JNCIA educated. 
+~~I'm network administrator in an international telecom company. Routers are my professional world and I'm Cisco CCNA / CCNP and Juniper JNCIA educated.~~
 
-I’m a beginner in programming too. I did already some front-end, some Python (incl. Data-Analytics and ML), learned some SQL / PostgreSQL, Docker, DevOps, Data-Analytics and visualization (Power BI) and LLM Prompting.
-
-Right now I'm learning OOP with C# and gaining first insights into the world of test automation.
-  
+I’m a beginner in world of software development and testing. I did already some front-end, some Python (incl. Data-Analytics and ML), learned some SQL / PostgreSQL, Docker, DevOps, Data-Analytics and visualization (Power BI) and LLM Prompting.  
 
 <br/>  
 
