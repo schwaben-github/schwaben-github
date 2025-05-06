@@ -34,9 +34,9 @@ I’m a beginner in world of software development and testing. I did already som
   <summary> Rapidfire </summary>
   - 🔭 I'm currently working on different test automation frameworks and paradigms <a href="https://github.com/schwaben-github/csharp_exercise.git">Entity, Selenium, Specflow, BDD, etc.</a>
   
+- 🌱 I have been learning OOP with C# during the last year
 
-- 🌱 I’m currently learning C# OOP  
-  
+- 🌱 I'm learning containerization with Docker, Swarms and K8s
 
 - 😎 I'm speaking german and croatian on native level, and as you can see, some english  
 </details>  
@@ -62,7 +62,6 @@ I’m a beginner in world of software development and testing. I did already som
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
